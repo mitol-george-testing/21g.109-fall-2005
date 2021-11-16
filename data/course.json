@@ -1,0 +1,27 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Chinese"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ec48e998-99aa-5138-f7df-f1cee46a484b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Chinese III (Streamlined)",
+  "course_description": "This course is the intermediate level of the streamlined curriculum, which is intended for students who, when they began streamlined I, had some background in the language, whether it be comprehension with limited speaking ability or quite fluent speaking ability. The focus of the course is on standard pronunciation and usage, on reading in both complex and simplified characters, and on writing. It is presupposed that students in Chinese III have already learned the pinyin system of representing pronunciation sufficiently well to be able to read texts in pinyin accurately. (If not, there are pinyin tutorials to assist you to learn the system.)\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.109",
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
